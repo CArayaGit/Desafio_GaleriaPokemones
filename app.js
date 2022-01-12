@@ -37,5 +37,7 @@ const server = http.createServer(async (req, res) => {
 
 server.listen(3000, () => console.log('Servidor ok'));
 
+// http://localhost:3000/pokeapi
+
 
 
